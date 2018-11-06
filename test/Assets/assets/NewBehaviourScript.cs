@@ -13,6 +13,7 @@ public class NewBehaviourScript : MonoBehaviour {
 	void Update () {
 
 		print ("hola mundo");
+		print ("hola");
 		
 	}
 }
